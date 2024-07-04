@@ -52,5 +52,3 @@ This project was developed on Google Colab and maintained by:
 Feel free to contact us if you have any questions or suggestions!
 
 
-Feel free to contact us if you have any questions or suggestions!
-
