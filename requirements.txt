@@ -1,0 +1,6 @@
+flask
+tensorflow>=2.0.0
+matplotlib
+numpy
+pandas
+scikit-learn
