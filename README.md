@@ -41,11 +41,11 @@ This project focuses on building a deep learning model to detect breast cancer u
    visit http://127.0.0.1:5000/
 ## Collaborators
 
-This project was developed on Google Colab and maintained by:
+This project was developed on [Google Colab](https://colab.research.google.com/drive/1O24L-QYkB8eaSKGCmlswDvDYVGAjs6S_?usp=sharing) and maintained by:
 
 - [Jay Patel](https://github.com/Jay254p/)
 - [Keith Epetet](https://github.com/cheifki/)
-- [Sharon Kang’ethe](https://github.com/)
+- [Sharon Kang’ethe](https://github.com/WanjiruNjunge)
 - [Caleb Magare](https://github.com/)
 
 
