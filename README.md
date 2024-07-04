@@ -8,8 +8,9 @@ This project focuses on building a deep learning model to detect breast cancer u
 - **Description**: The dataset contains images of breast tissue samples categorized into benign and malignant classes. Each image is annotated with its corresponding class label.
 
 ## Project Structure
-- **dataset/**: Directory containing the BreaKHis dataset split into train and validation sets.
-- **Breast_Cancer_Detection.ipynb**: Jupyter notebook containing the Python code for training the deep learning model using TensorFlow and Keras.
+- **dataset**: Directory containing the BreaKHis dataset split into train and validation sets.
+- **Breast_Cancer_Detection.ipynb**: Jupyter notebook containing the Python code for training the deep learning model using TensorFlow and Keras. This can also be access by [Google Colab](Google Colab).
+
 - **app.py**: The flask server to get the UI.
 - **requirements.txt**: List of Python dependencies required to run the project.
 - **README.md**: This file, providing an overview of the project, dataset, and instructions.
